@@ -12,7 +12,6 @@ async function init () {
   console.log(`|  |  | . | | | |   | | . | .'| . | -_|  _|  |  _|_| | |`)
   console.log(`|____/|___|_____|_|_|_|___|__,|___|___|_|    |___|_|___|\n`)
 
-  console.log('> Discord @ higoka#7120')
   console.log('> Enter "help" for a list of commands\n')
 
   console.log('initializing...\n')
